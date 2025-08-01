@@ -1,3 +1,5 @@
+![Cover image](./images/cover.png)
+
 # RelativiPy
 
 A set of useful tools for Special Relativity and General Relativity
